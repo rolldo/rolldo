@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rolldo
+- 👀 I’m interested in : IoT
+- 🌱 I’m currently learning: Electronics and telecommunication
+- 💞️ I’m looking to collaborate on : gitHub
+- 📫 Cách liên hệ với tôi: mail: tuyendoactive@gmail.com
